@@ -11,7 +11,7 @@ une plateforme d'apprentissage en ligne. Il y a plein de cours. Chaque cours a u
 ## Auteurs
 
 *   Team Caen
-*   Maxime Beaufils, Bertrand Pelletier, Iliès El Ouartassi
+*   Camille Deblois, Rauana Roupsard
 
 ## En savoir plus
 
